@@ -28,6 +28,6 @@ Trabalho_Pratico_II
         ├── diagrama_expandido.png     # Diagrama expandido    
 
 
-### Relatório Principal
-[Visualizar Relatório (PDF)](docs/bd-tp2-relatorio.pdf)
+### Documentação Principal
+[Visualizar documentação (PDF)](docs/bd-tp2-relatorio.pdf)
 
