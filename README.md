@@ -25,4 +25,9 @@ Trabalho_Pratico_II
 └── assets/                     # Arquivos auxiliares (imagens)  
     ├── diagramas/              # Diagramas e visuais adicionais  
         ├── diagrama.png        # Diagrama original  
-        ├── diagrama_expandido.png     # Diagrama expandido  
+        ├── diagrama_expandido.png     # Diagrama expandido    
+
+
+### Relatório Principal
+[Visualizar Relatório (PDF)](docs/relatorio.pdf)
+
