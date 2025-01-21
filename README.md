@@ -29,5 +29,5 @@ Trabalho_Pratico_II
 
 
 ### Relatório Principal
-[Visualizar Relatório (PDF)](docs/relatorio.pdf)
+[Visualizar Relatório (PDF)](docs/bd-tp2-relatorio.pdf)
 
